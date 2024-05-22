@@ -1,3 +1,4 @@
+# A variable name should
 my_name = 'Zed A. Shaw'
 my_age = 35 # not a lie
 my_height = 75 #inches
@@ -13,3 +14,7 @@ print(f"He's {my_weight} pounds heavy.")
 print(f"He's {my_height} inches tall.")
 print(f"He's got {my_eyes} eyes and {my_hair} hair.")
 print(f"His teeth are usually {my_teeth} depending on the coffee.")
+
+x = round(1.8888)
+y = round(5.3333)
+print(x,y)
